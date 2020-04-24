@@ -1,0 +1,9 @@
+body{
+  background: #acd3f5;
+}
+.header__title{
+  text-shadow: 5px 10px 10px;
+}
+.navigation__button{
+  color: blue;
+}
